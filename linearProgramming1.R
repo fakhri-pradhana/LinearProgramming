@@ -1,5 +1,7 @@
 
 # SOAL NOMER 1
+# FAKHRI ILHAM PRADHANA
+# 18523060
 # ==================================================================
 
 # Import lpSolve package
