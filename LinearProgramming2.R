@@ -1,7 +1,7 @@
 
 # SOAL NOMER 2
-# FAKHRI ILHAM PRADHANA
-# 18523060
+# FAKHRI ILHAM PRADHANA / ILMA KHOIRUZZIDAN
+# 18523060 / 185230245
 # ==================================================================
 
 # Import lpSolve package
